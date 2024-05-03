@@ -37,6 +37,7 @@ This is an draft page.
 3. [Trajectory Forecasts in Unknown Environments Conditioned on Grid-Based Plans]() P2T
 4. [PTP: Parallelized Tracking and Prediction with Graph Neural Networks and Diversity Sampling]() PTP
 5. [The Trajectron: Probabilistic Multi-Agent Trajectory Modeling with Dynamic Spatiotemporal Graphs]() Trajectron
+6. [MG-GAN: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction](https://selflein.github.io/MG-GAN/) MG-GAN
 
 ## 5. Transformer 관련
 1. [AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting]()
