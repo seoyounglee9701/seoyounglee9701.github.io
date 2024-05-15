@@ -11,7 +11,7 @@ layout: post
 2. [Sophie: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints]()
 3. [D2-TPred: Discontinous Dependency for Trajectory Prediction under Traffic Lights]()
 4. [STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction]()
-5. []
+5. [Convolutional Social Pooling for Vehicle Trajectory Prediction]()
 
 Trustworthy Interaction-Aware Decision Making and Planning
 
@@ -22,14 +22,12 @@ Trustworthy Interaction-Aware Decision Making and Planning
 4. [MATS: An Interpretable Trajectory Forecasting Representation for Planning and Control](https://arxiv.org/abs/2009.07517) 2020
 5. [On Infusing Reachability-Based Safety Assurance within Planning Frameworks for Human-Robot Vehicle Interactions](https://stanfordasl.github.io/wp-content/papercite-data/pdf/Leung.Schmerling.ea.IJRR19.pdf) 2020
 
-
-This is an draft page.
-
 ## 3. Scene Context Aware/Encoder 관련
 1. [Multi-Agent Tensor Fusion for Contextual Trajectory Prediction]()
 2. [Forecasting Human Trajectory from Scene History]()
 3. [Social and Scene-Aware Trajectory Prediction in Crowded Spaces]()
 4. [HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction]()
+5. [CoverNet: Multimodal Behavior Prediction using Trajectory Sets]()
 
 ## 4. Generative, Probabilitic Decoder 관련
 1. [Goal-GAN: Multimodal Trajectory Prediction Based on Goal Position Estimation]()
@@ -42,7 +40,11 @@ This is an draft page.
 ## 5. Transformer 관련
 1. [AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting]()
 2. [PreTR: Spatio-Temporal Non-Autoregressive Trajectory Prediction Transformer]()
-3. [Transformer Networks for Trajectory Forecasting]()
+3. [Transformer Networks for Trajectory Forecasting](https://arxiv.org/pdf/2003.08111) [code](https://github.com/FGiuliari/Trajectory-Transformer) 2020
 4. [Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction]()
 5. [Stochastic Non-Autoregressive Transformer-based Multi-modal Pedestrian Trajectory Prediction for Intelligent Vehicles](https://ieeexplore.ieee.org/document/10367756)
-
+6. [Pedestrian Trajectory Prediction using Context-Augmented Transformer Networks](https://arxiv.org/abs/2012.01757v1)
+7. [Pedestrian trajectory prediction via spatial interaction transformer network](https://arxiv.org/abs/2112.06624)
+8. [Latent Former: Multi-agent transformer-based interaction modeling and trajectory prediction](https://arxiv.org/pdf/2203.01880)
+9. [NAST: Non-Autoregressive Spatial-Temporal Transformer for Time Series Forecasting](https://arxiv.org/abs/2102.05624) [code](https://github.com/Flawless1202/Non-AR-Spatial-Temporal-Transformer)
+10. [Vehicle Trajectory Prediction Based on Intention-Aware Non-Autoregressive Transformer With Multi-Attention Learning for Internet of Vehicles](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9832594)
