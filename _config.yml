@@ -1,15 +1,15 @@
 # Configurations
-title:            생이의 개발일기
-longtitle:        cengyi's development blog
+title:            Seoyoung.Log
+longtitle:        seoyoung's Development Blog
 author:           SeoyoungLee
 email:            ceng99@naver.com
 description: >
-  개발 및 스터디 관련 기록을 정리하는 공간입니다.
+  개발 관련 스터디 및 알고리즘 관련 기록을 정리하는 공간입니다.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sylee97.github.io'
+url:              'https://seoyounglee9701.github.io'
 baseurl:          '/jekyll-gitbook'
 rss:              RSS
 
